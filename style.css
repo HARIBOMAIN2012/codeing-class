@@ -1,0 +1,22 @@
+body{
+background-image:url("https://wallpapercave.com/wp/vf79Uk2.jpg");
+background-size:cover;
+background-position:center; 
+background-repeat:no-repeat;
+background-attachment:fixed;
+  font-family:"MonteCarlo",sans-serif;
+}
+header{
+height:100px;
+background-color:white;
+}
+*{
+  margin:0px;
+}
+header .menu{
+  list-style-type:none;
+  font-size:50px;
+  display:flex;
+  justify-content : space-around;
+  padding:15px;
+}
